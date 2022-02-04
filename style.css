@@ -1,0 +1,52 @@
+body{
+    justify-content: center;
+    font-family: arial;
+    margin-top: 80px;
+    background-color: rgb(221, 221, 221);
+}
+
+h4{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    background-color: #fff;
+    font-size: 12pt;
+}
+
+::placeholder{
+    color: black;
+}
+
+.conteiner{
+    background-color: rgb(121, 121, 121);
+    border-color: #000;
+    border-style:solid ;
+    border-radius: 10px;
+    padding: 50px 80px 50px 80px ;
+}
+
+section{
+    margin:auto;
+    width: 500px;
+}
+
+footer{
+    font-family: initial;
+    text-align: center;
+}
+
+.btnCalcular{
+    background-color: rgb(167, 0, 0);
+    color: white;
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
